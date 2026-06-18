@@ -131,9 +131,9 @@ For dataset access requests, please contact the dataset curators directly at: [p
 
 | Purpose | Contact |
 |---------|---------|
-| Code/Implementation Issues | [mua88621@hbku.edu.qa](mailto:muan88621@hbku.edu.qa) |
+| Code/Implementation Issues | [muan88621@hbku.edu.qa](mailto:muan88621@hbku.edu.qa) |
 | Data Access Requests | [paul.constable@flinders.edu.au](mailto:paul.constable@flinders.edu.au) |
-| Collaboration/General Inquiries | [your.email@institution.edu](mailto:your.email@institution.edu) |
+| Collaboration/General Inquiries | [muan88621@hbku.edu.qa](mailto:muan88621@hbku.edu.qa) |
 
 ---
 
