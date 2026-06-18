@@ -25,6 +25,7 @@ The project presents an application-driven integration framework that combines *
 ---
 
 ## 📂 Repository Structure
+``` bash
 UMAP-ERG/
 ├── Daataset/
 │ ├── raw/ # Raw ERG signal data (access restricted)
@@ -49,3 +50,4 @@ UMAP-ERG/
 ├── environment.yml # Conda environment file
 ├── LICENSE
 └── README.md
+``` 
