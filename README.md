@@ -113,3 +113,28 @@ We utilized a publicly available ERG dataset contributed by Flinders University,
 ### 📚 Dataset Reference
 
 Constable, P., Marmolejo-Ramos, F., Thompson, D., & Brabec, M. (2022). *Electroretinogram raw waveforms for control and autism* [Dataset]. Flinders University. [https://doi.org/10.25451/flinders.21546210.v1](https://doi.org/10.25451/flinders.21546210.v1)
+## 📧 Contact
+
+For questions regarding the code, data access, collaboration, or any other inquiries, please feel free to reach out:
+
+- **Corresponding Author:** [Muhammad Aqib Anwar]
+- **Email:** [muan88621@hbku.edu.qa]
+- **Institution:** [HBKU, Qatar]
+- **GitHub:** [https://github.com/Muhammad-Aqib-Anwar](https://github.com/yourusername)
+- **Google Scholar:** [https://scholar.google.com/citations?user=xO9pQQYAAAAJ&hl=en]
+
+For dataset access requests, please contact the dataset curators directly at: [paul.constable@flinders.edu.au](mailto:paul.constable@flinders.edu.au)
+
+---
+
+### 📬 Quick Contact
+
+| Purpose | Contact |
+|---------|---------|
+| Code/Implementation Issues | [mua88621@hbku.edu.qa](mailto:muan88621@hbku.edu.qa) |
+| Data Access Requests | [paul.constable@flinders.edu.au](mailto:paul.constable@flinders.edu.au) |
+| Collaboration/General Inquiries | [your.email@institution.edu](mailto:your.email@institution.edu) |
+
+---
+
+**We welcome feedback, questions, and collaboration opportunities!**
