@@ -121,7 +121,7 @@ For questions regarding the code, data access, collaboration, or any other inqui
 - **Email:** [muan88621@hbku.edu.qa]
 - **Institution:** [HBKU, Qatar]
 - **GitHub:** [https://github.com/Muhammad-Aqib-Anwar](https://github.com/yourusername)
-- **Google Scholar:** [https://scholar.google.com/citations?user=xO9pQQYAAAAJ&hl=en]
+- **Google Scholar:** https://scholar.google.com/citations?user=xO9pQQYAAAAJ&hl=en
 
 For dataset access requests, please contact the dataset curators directly at: [paul.constable@flinders.edu.au](mailto:paul.constable@flinders.edu.au)
 
