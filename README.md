@@ -118,7 +118,7 @@ Constable, P., Marmolejo-Ramos, F., Thompson, D., & Brabec, M. (2022). *Electror
 For questions regarding the code, data access, collaboration, or any other inquiries, please feel free to reach out:
 
 - **Corresponding Author:** [Muhammad Aqib Anwar]
-- **Email:** [muan88621@hbku.edu.qa]
+- **Email:** muan88621@hbku.edu.qa
 - **Institution:** [HBKU, Qatar]
 - **GitHub:** [https://github.com/Muhammad-Aqib-Anwar](https://github.com/yourusername)
 - **Google Scholar:** https://scholar.google.com/citations?user=xO9pQQYAAAAJ&hl=en
